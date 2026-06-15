@@ -1,0 +1,1 @@
+*By contributing to this project, you agree that your contributions are licensed under the project's current license (GNU AGPLv3). You also grant the project maintainer the right to re-license your contributions under a different open source license at a later date, at the maintainer's sole discretion.*
